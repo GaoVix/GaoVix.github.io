@@ -16,9 +16,10 @@ Education
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
   <div>
-    <p>**Sep.2021 - Jun.2025**(Expected) Shandong University  B.Eng</p>
+    <p>__Sep.2021 - Jun.2025__(Expected) Shandong University  __B.Eng__</p>
   </div>
 </div>
+
 
 
 
