@@ -11,9 +11,16 @@ I'm a last year undergraduate student from [School of Mechanical, Electrical & I
 
 Education
 ======
-<div style="text-align: left;">
-  <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
+<div style="overflow: auto;">
+  <div style="float: left; margin-right: 10px;">
+    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
+  </div>
+  <div>
+    <p>**Sep.2021 - Jun.2025**(Expected) **Shandong University**  **B.Eng**</p>
+  </div>
 </div>
+
+
 
 Work Experience
 ======
