@@ -15,13 +15,13 @@ Education
   <div style="float: left; margin-right: 20px; margin-bottom: 20px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
-  <div style="center">
+  <div style="text-align: center">
     <p><strong>Shandong University</strong></p>
   </div>
-  <div style="center">
+  <div style="text-align: center">
     <p>Sep.2021 - Jun.2025(Expected)</p>
   </div>
-  <div style="center">
+  <div style="text-align: center">
     <p>B.Eng  Robot Engineering</p>
   </div>
 </div>
