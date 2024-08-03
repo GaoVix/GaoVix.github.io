@@ -13,9 +13,9 @@ Education
 ======
 <div style="overflow: auto;">
   <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 20px; margin-bottom: 20px;">
-    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
+    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="150" />
   </div>
-  <div style="text-align: center; margin-bottom: 20px;">
+  <div style="text-align: center; margin-top: 20px;">
     <p>Sep.2021 - Jun.2025(Expected)</p>
   </div>
   <div style="text-align: center">
