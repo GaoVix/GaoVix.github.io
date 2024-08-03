@@ -11,7 +11,7 @@ I'm a last year undergraduate student from [School of Mechanical, Electrical & I
 
 Education
 ======
-"ShandongUniversity.png"
+
 
 Work Experience
 ======
