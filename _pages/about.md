@@ -12,7 +12,7 @@ I'm a last year undergraduate student from [School of Mechanical, Electrical & I
 Education
 ======
 <div style="text-align: center;">
-  <img src="ShandongUniversity.png" alt="Profile Picture" width="200" />
+  <img src="https://github.com/GaoVix/GaoVix.github.io/blob/master/images/ShandongUniversity.png" alt="Profile Picture" width="200" />
 </div>
 
 Work Experience
