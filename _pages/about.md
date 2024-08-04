@@ -11,17 +11,16 @@ I'm a last year undergraduate student from [School of Mechanical, Electrical & I
 
 Education
 ======
-<div style="overflow: auto;">
+<div style="overflow: auto; align-items: center">
   <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 20px; margin-bottom: 20px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
   <div style="text-align: center; margin-top: 20px;">
     <p>Sep.2021 - Jun.2025(Expected)</p>
-  </div>
-  <div style="text-align: center">
     <p><strong>Shandong University</strong>  |  <strong>B.Eng</strong>  |  Robot Engineering</p>
   </div>
 </div>
+
 
 
 
