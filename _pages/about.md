@@ -16,8 +16,8 @@ Education
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
   <div style="text-align: center; margin-top: 20px;">
-    <p>Sep.2021 - Jun.2025(Expected)</p>
-    <p><strong>Shandong University</strong>  |  <strong>B.Eng</strong>  |  Robot Engineering</p>
+    <p><strong>Shandong University</strong></p>
+    <p>B.Eng. in Robot Engineering, Sep.2021 - Jun.2025(Expected)</p>
   </div>
 </div>
 
