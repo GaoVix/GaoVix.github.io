@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Weixiang Gao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "example.png"
   
-  name             : "Weixiang Gao"
+  name             : # "Weixiang Gao"
   pronouns         : # "he/him"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "China"
