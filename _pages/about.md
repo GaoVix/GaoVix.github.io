@@ -15,7 +15,7 @@ Education
   <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 20px; margin-bottom: 20px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
-  <div style="margin-top: 30px; margin-left: 20px;">
+  <div style="margin-top: 30px; margin-left: 30px;">
     <p><strong>Shandong University</strong></p>
     <p>B.Eng. in Robot Engineering, Sep.2021 - Jun.2025(Expected)</p>
   </div>
