@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a last year undergraduate student from [School of Mechanical, Electrical & Information Engineering](https://enie.wh.sdu.edu.cn/), [Shandong University](https://en.sdu.edu.cn/). I'm also a research assistant in Shandong University. My research interest includes machine learning, computer vision, face perception computing, generative models, and embodied intelligence.
+I'm a last-year undergraduate student from [School of Mechanical, Electrical & Information Engineering](https://enie.wh.sdu.edu.cn/), [Shandong University](https://en.sdu.edu.cn/). I'm also a research assistant in Shandong University. My research interest includes machine learning, computer vision, face perception computing, generative models, and embodied intelligence.
 
 Education
 -----
