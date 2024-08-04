@@ -21,8 +21,11 @@ Education
   </div>
 </div>
 
+Publications
+------
+
 Work Experience
---------------------
+------
 <div style="overflow: auto">
   <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 30px; margin-bottom: 20px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
@@ -33,4 +36,6 @@ Work Experience
   </div>
 </div>
 
+Academic Service
+------
 
