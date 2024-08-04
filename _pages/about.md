@@ -11,7 +11,7 @@ I'm a last year undergraduate student from [School of Mechanical, Electrical & I
 
 Education
 ======
-<div style="overflow: auto; align-items: center">
+<div style="overflow: auto">
   <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 20px; margin-bottom: 20px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
