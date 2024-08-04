@@ -2,6 +2,18 @@
    MASTHEAD
    ========================================================================== */
 
+.site-title {
+  font-family: 'Arial', sans-serif; 
+  font-size: 40px !important; 
+  font-weight: bold !important;
+  color: #000 !important; 
+  text-decoration: none !important; 
+
+  &:hover {
+    color: #000 !important; 
+  }
+}
+
 .masthead {
   position: fixed;
   background: white;
@@ -37,7 +49,6 @@
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -54,17 +65,5 @@
   &--lg {
     padding-right: 3em;
     font-weight: 700;
-  }
-}
-
-.site-title {
-  font-family: 'Arial', sans-serif; 
-  font-size: 40px !important; 
-  font-weight: bold !important;
-  color: #000 !important; 
-  text-decoration: none !important; 
-
-  &:hover {
-    color: #000 !important; 
   }
 }
