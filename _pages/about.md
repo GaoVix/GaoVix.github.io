@@ -21,8 +21,7 @@ Education
   </div>
 </div>
 
-#Publications
-#------
+
 
 Work Experience
 ------
@@ -36,6 +35,5 @@ Work Experience
   </div>
 </div>
 
-#Academic Service
-#------
+
 
