@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Short Bio"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ I'm a last-year undergraduate student from [School of Mechanical, Electrical & I
 Education
 -----
 <div style="overflow: auto">
-  <div style="float: left; margin-top: 10px; margin-left: 20px; margin-right: 20px; margin-bottom: 10px;">
+  <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
   <div style="margin-top: 10px;">
