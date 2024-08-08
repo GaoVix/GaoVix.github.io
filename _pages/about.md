@@ -12,10 +12,10 @@ I'm a last-year undergraduate student from [School of Mechanical, Electrical & I
 Education
 -----
 <div style="overflow: auto">
-  <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 30px; margin-bottom: 20px;">
-    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
+  <div style="float: left; margin-top: 10px; margin-left: 20px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
-  <div style="margin-top: 30px;">
+  <div style="margin-top: 10px;">
     <p><strong>Shandong University</strong></p>
     <p>B.Eng. , Sep.2021 - Now</p>
   </div>
