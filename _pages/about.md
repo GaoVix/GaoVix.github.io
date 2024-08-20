@@ -41,7 +41,7 @@ Publications
   </div>
   <div style="margin-top: 10px;">
     <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
-    <p>IEEETransactions on Neural Systems & Rehabilitation Engineering, 2024</p>
+    <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
   </div>
 </div>
 
