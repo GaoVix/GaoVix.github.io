@@ -35,7 +35,7 @@ Education
 
 Publications
 -----
-<div style="overflow: auto"; display: flex; align-items: center;>
+<div style="overflow: auto; display: flex; align-items: center;">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="160" height="80"/>
   </div>
