@@ -40,8 +40,8 @@ Publications
     <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="160" />
   </div>
   <div style="margin-top: 10px;">
-    <p><strong>Shandong University</strong></p>
-    <p>B.Eng. , Sep.2021 - Now</p>
+    <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
+    <p>IEEETransactions on Neural Systems & Rehabilitation Engineering, 2024</p>
   </div>
 </div>
 
