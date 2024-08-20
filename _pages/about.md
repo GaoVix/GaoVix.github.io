@@ -37,7 +37,7 @@ Publications
 -----
 <div style="overflow: auto">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="80" />
+    <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="160" />
   </div>
   <div style="margin-top: 10px;">
     <p><strong>Shandong University</strong></p>
