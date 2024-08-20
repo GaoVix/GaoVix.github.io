@@ -21,7 +21,6 @@ Education
   </div>
 </div>
 
-
 <!--
 <div style="overflow: auto">
   <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 30px; margin-bottom: 20px;">
@@ -36,6 +35,14 @@ Education
 
 Publications
 -----
-
+<div style="overflow: auto">
+  <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="80" />
+  </div>
+  <div style="margin-top: 10px;">
+    <p><strong>Shandong University</strong></p>
+    <p>B.Eng. , Sep.2021 - Now</p>
+  </div>
+</div>
 
 
