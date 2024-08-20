@@ -37,12 +37,13 @@ Publications
 -----
 <div style="overflow: auto; display: flex; align-items: center;">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="160" height="80" />
+    <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" width="160" height="100" />
   </div>
-  <div style="margin-top: 15px; line-height: 0.5;">
+  <div style="margin-top: 10px; line-height: 0.5;">
     <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
     <p>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia</p>
     <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
+    <p>the source of the paper is coming...</p>
   </div>
 </div>
 
