@@ -43,7 +43,7 @@ Publications
     <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
     <p>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia</p>
     <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
-    <p><a href="https://ieeexplore.ieee.org/document/10643562">[paper]</a></p>
+    <p><a href="https://ieeexplore.ieee.org/document/10643562"><span class="no-underline">[paper]</span></a></p>
   </div>
 </div>
 
