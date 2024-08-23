@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <p>I'm a last-year undergraduate student from <a href="https://enie.wh.sdu.edu.cn/" style="text-decoration: none;">School of Mechanical, Electrical & Information Engineering</a>, <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>. My research interest includes machine learning, computer vision, face perception computing, generative models, and embodied intelligence.</p>
 
 
