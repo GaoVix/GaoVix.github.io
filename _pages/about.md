@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I'm a last-year undergraduate student from <a href="https://enie.wh.sdu.edu.cn/" style="text-decoration: none;">School of Mechanical, Electrical & Information Engineering</a>, <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, face perception computing, generative models, and embodied intelligence.</p>
+<p>I'm a last-year undergraduate student from <a href="https://enie.wh.sdu.edu.cn/" style="text-decoration: none;">School of Mechanical, Electrical & Information Engineering</a>, <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, face perception computing, generative models, and embodied intelligence. I am know working on diffusion models, in conjunction with facial paralysis images.</p>
 
 
 Education
