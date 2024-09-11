@@ -6,14 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-family: 'Times New Roman', Times, serif;color: rgb(255, 255, 255);">
+<div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
   <p>I'm a last-year undergraduate student from <a href="https://enie.wh.sdu.edu.cn/" style="text-decoration: none;">School of Mechanical, Electrical & Information Engineering</a>, <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, face perception computing, generative models, and embodied intelligence. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
 
 
 Education
 -----
-<div style="overflow: auto;font-family: 'Times New Roman', Times, serif;color: rgb(255, 255, 255);">
+<div style="overflow: auto;font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
@@ -61,7 +61,7 @@ Publications
   </div>
 </div>
 -->
-<div style="overflow: auto; display: flex; align-items: flex-start !important; margin-bottom: 20px;color: rgb(255, 255, 255);">
+<div style="overflow: auto; display: flex; align-items: flex-start !important; margin-bottom: 20px;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
@@ -75,7 +75,7 @@ Publications
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 20px 0;" />
 
-<div style="overflow: auto; display: flex; align-items: flex-start !important;color: rgb(255, 255, 255);">
+<div style="overflow: auto; display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/p2.png" alt="ccfexp Picture" style="width: 220px !important; height: 100px !important;" />
   </div>
