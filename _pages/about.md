@@ -38,7 +38,7 @@ Publications
 -----
 <div style="overflow: auto; display: flex; align-items: center !important;">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/AI based facial palsy evaluation.png" alt="Profile Picture" style="width: 150px !important; height: 100px !important;" />
+    <img src="../images/AI based facial palsy evaluation.png" alt="reviewf Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
   <div style="margin-top: 10px; line-height: 0.2;">
     <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
@@ -60,7 +60,7 @@ Publications
 </div> -->
 <div style="overflow: auto; display: flex; align-items: center !important;">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/p2.png" alt="Profile Picture" style="width: 150px !important; height: 100px !important;" />
+    <img src="../images/p2.png" alt="ccfexp Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
   <div style="margin-top: 10px; line-height: 1.5; word-wrap: break-word;">
     <p><strong>CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals</strong></p>
