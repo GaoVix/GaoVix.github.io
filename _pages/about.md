@@ -72,6 +72,8 @@ Publications
   </div>
 </div>
 
+<hr style="border: none; border-top: 1px solid #ccc; margin: 20px 0;" />
+
 <div style="overflow: auto; display: flex; align-items: flex-start !important;">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/p2.png" alt="ccfexp Picture" style="width: 220px !important; height: 100px !important;" />
