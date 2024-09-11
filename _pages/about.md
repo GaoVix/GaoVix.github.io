@@ -60,11 +60,11 @@ Publications
   </div>
 </div>
 -->
-<div style="overflow: auto; display: flex; align-items: flex-start !important;">
-  <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 150px !important; height: auto !important;" />
+<div style="overflow: auto; display: flex; align-items: flex-start !important; margin-bottom: 20px;">
+  <div style="float: left; margin-right: 20px;">
+    <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
-  <div style="margin-top: 10px; line-height: 1.5;">
+  <div style="line-height: 1.5;">
     <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
     <p>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia</p>
     <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
@@ -73,16 +73,17 @@ Publications
 </div>
 
 <div style="overflow: auto; display: flex; align-items: flex-start !important;">
-  <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/p2.png" alt="ccfexp Picture" style="width: 150px !important; height: auto !important;" />
+  <div style="float: left; margin-right: 20px;">
+    <img src="../images/p2.png" alt="ccfexp Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
-  <div style="margin-top: 10px; line-height: 1.5;">
+  <div style="line-height: 1.5;">
     <p><strong>CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals</strong></p>
     <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
     <p>Arxiv preprint, 2024</p>
     <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
   </div>
 </div>
+
 
 
 
