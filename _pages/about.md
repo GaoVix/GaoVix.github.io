@@ -72,7 +72,7 @@ Publications
   </div>
 </div>
 
-<hr style="border: none; border-top: 0.3px solid #ccc; margin: 20px 0;" />
+<hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 20px 0;" />
 
 <div style="overflow: auto; display: flex; align-items: flex-start !important;">
   <div style="float: left; margin-right: 20px;">
