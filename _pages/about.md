@@ -74,7 +74,7 @@ Publications
 
 <div style="overflow: auto; display: flex; align-items: flex-start !important;">
   <div style="float: left; margin-right: 20px;">
-    <img src="../images/p2.png" alt="ccfexp Picture" style="width: 150px !important; height: 100px !important;" />
+    <img src="../images/p2.png" alt="ccfexp Picture" style="width: 1500px !important; height: 100px !important;" />
   </div>
   <div style="line-height: 1.5;">
     <p><strong>CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals</strong></p>
