@@ -71,7 +71,7 @@ Publications
     <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
   </div>
 </div>
-
+<!--
 <div style="overflow: auto; display: flex; align-items: flex-start !important;">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/p2.png" alt="ccfexp Picture" style="width: 1500px !important; height: 100px !important;" />
@@ -83,6 +83,7 @@ Publications
     <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
   </div>
 </div>
+-->
 
 
 
