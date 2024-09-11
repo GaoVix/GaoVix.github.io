@@ -45,7 +45,7 @@ Publications
     <p><strong>CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals</strong></p>
     <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
     <p>Arxiv preprint, 2024</p>
-    <div style="display: flex; justify-content: space-between; width: 200px !important;">
+    <div style="display: flex; justify-content: space-between; width: 100px !important;">
       <span><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></span>
       <span><a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;">[Code]</a></span>
     </div>
