@@ -47,5 +47,16 @@ Publications
     <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
   </div>
 </div>
+<div style="overflow: auto; display: flex; align-items: center !important;">
+  <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
+    <img src="../images/p2.png" alt="Profile Picture" style="width: 150px !important; height: 100px !important;" />
+  </div>
+  <div style="margin-top: 10px; line-height: 0.2;">
+    <p><strong>CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals</strong></p>
+    <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
+    <p>Arxiv preprint, 2024</p>
+    <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
+  </div>
+</div>
 
 
