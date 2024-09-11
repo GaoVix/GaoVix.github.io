@@ -64,10 +64,12 @@ Publications
   <div style="float: left; margin-right: 20px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
-  <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
-  <p>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia</p>
-  <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
-  <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
+  <div style="line-height: 1;">
+    <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
+    <p>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia</p>
+    <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
+    <p><a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;">[Paper]</a></p>
+  </div>
 </div>
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 20px 0;" />
