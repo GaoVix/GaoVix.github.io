@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 -----
-<div style="overflow: auto">
+<div style="overflow: auto;font-family: 'Times New Roman', Times, serif;">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
-  <div style="margin-top: 10px;">
+  <div style="margin-top: 10px;font-family: 'Times New Roman', Times, serif;">
     <p><strong>Shandong University</strong></p>
     <p>B.Eng. , Sep.2021 - Now</p>
   </div>
@@ -65,7 +65,7 @@ Publications
   <div style="float: left; margin-right: 20px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
-  <div style="line-height: 1;">
+  <div style="line-height: 1;font-family: 'Times New Roman', Times, serif;">
     <p><strong>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</strong></p>
     <p>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia</p>
     <p>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
