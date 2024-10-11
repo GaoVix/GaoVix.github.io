@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
-  <p>I'm a last-year undergraduate student from <a href="https://enie.wh.sdu.edu.cn/" style="text-decoration: none;">School of Mechanical, Electrical & Information Engineering</a>, <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, embodied AI, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
+  <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, embodied AI, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
 
 
