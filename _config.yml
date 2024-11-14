@@ -26,7 +26,7 @@ author:
   name             : # "Weixiang Gao"
   pronouns         : # "he/him"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Xuzhou, China"
+  location         : # "Xuzhou, China"
   employer         : "Shandong University"
   uri              : # URL
   email            : "gaowx2003@gmail.com" 
