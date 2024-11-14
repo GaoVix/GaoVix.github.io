@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Weixiang Gao"
 title_separator          : "-"
-name                     : &name "Weixiang Gao"
+name                     : "Weixiang Gao"
 description              : &description "personal description"
 url                      : https://gaovix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
