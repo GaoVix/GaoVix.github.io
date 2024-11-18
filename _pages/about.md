@@ -36,7 +36,6 @@ Education
 -->
 
 Publications
-(* Equal Contribution, &dagger Corresponding Author)
 -----
 <div style="overflow: auto; display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
