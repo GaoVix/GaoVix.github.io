@@ -29,13 +29,14 @@ Education
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
   </div>
   <div style="margin-top: 30px;">
-    <p><strong>Shandong University</strong></p>
+    <p><strong>Shandong University</strong></p>dao
     <p>Research Assistant, Sep.2023 - Now</p>
   </div>
 </div>
 -->
 
 Publications
+(* Equal Contribution, &dagger Corresponding Author)
 -----
 <div style="overflow: auto; display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
