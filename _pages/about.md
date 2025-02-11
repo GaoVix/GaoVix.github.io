@@ -24,17 +24,17 @@ Education
   </div>
 </div>
 
-<!--
-<div style="overflow: auto">
-  <div style="float: left; margin-top: 20px; margin-left: 40px; margin-right: 30px; margin-bottom: 20px;">
-    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="100" />
+<div style="overflow: auto; font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
+  <div style="margin-top: 10px; margin-right: 20px;">
+    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
-  <div style="margin-top: 30px;">
-    <p><strong>Shandong University</strong></p>dao
-    <p>Research Assistant, Sep.2023 - Now</p>
+  <div style="margin-top: 10px;">
+    <p><strong>Shandong University</strong></p>
+    <p>Robot Engineering</p>
+    <p>B.Eng. , Sep.2021 - Now</p>
   </div>
 </div>
--->
+
 
 Publications
 -----
