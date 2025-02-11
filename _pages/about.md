@@ -13,6 +13,7 @@ redirect_from:
 
 Education
 -----
+<!--
 <div style="overflow: auto;font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
   <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
@@ -22,6 +23,7 @@ Education
     <p>B.Eng. , Sep.2021 - Now</p>
   </div>
 </div>
+-->
 
 <div style="overflow: auto; font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
   <div style="margin-top: 10px; margin-right: 20px;">
