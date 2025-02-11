@@ -27,10 +27,10 @@ Education
   <div style="margin-top: 10px; margin-right: 20px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
-  <div style="margin-top: 10px;">
-    <p><strong>Shandong University</strong></p>
-    <p>Robot Engineering</p>
-    <p>B.Eng. , Sep.2021 - Now</p>
+  <div style="margin-top: 10px; line-height: 1.5;">
+    <p style="font-size: 18px; font-weight: bold; margin: 0;">Shandong University</p>
+    <p style="font-size: 16px; margin: 5px 0;">Robot Engineering</p>
+    <p style="font-size: 14px; margin: 0;">B.Eng. , Sep.2021 - Now</p>
   </div>
 </div>
 
