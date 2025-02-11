@@ -26,7 +26,7 @@ Education
 -->
 
 <div style="overflow: auto; font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
-  <div style="margin-top: 10px; margin-right: 20px;">
+  <div style="margin-top: 10px; margin-right: 20px; margin-left: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
   </div>
   <div style="margin-top: 10px; line-height: 1.5;">
