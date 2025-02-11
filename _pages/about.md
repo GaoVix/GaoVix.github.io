@@ -31,8 +31,8 @@ Education
   </div>
   <div style="margin-top: 10px; line-height: 1.5;">
     <p style="font-size: 18px; font-weight: bold; margin: 0;">Shandong University</p>
-    <p style="font-size: 16px; margin: 5px 0;">Robot Engineering</p>
-    <p style="font-size: 14px; margin: 0;">B.Eng. , Sep.2021 - Now</p>
+    <p style="font-size: 18px; margin: 5px 0;">Robot Engineering</p>
+    <p style="font-size: 18px; margin: 0;">B.Eng. , Sep.2021 - Now</p>
   </div>
 </div>
 
