@@ -19,7 +19,8 @@ Education
   </div>
   <div style="margin-top: 10px;font-family: 'Times New Roman', Times, serif;">
     <p><strong>Shandong University</strong></p>
-    <p>B.Eng. in Robot Engineering, Sep.2021 - Now</p>
+    <p>Robot Engineering</p>
+    <p>B.Eng. , Sep.2021 - Now</p>
   </div>
 </div>
 
