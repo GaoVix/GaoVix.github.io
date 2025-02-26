@@ -79,7 +79,6 @@ Publications
     const body = document.body;
     body.classList.toggle('dark-mode');
     
-    // save
     if (body.classList.contains('dark-mode')) {
       localStorage.setItem('theme', 'dark');
     } else {
@@ -87,7 +86,6 @@ Publications
     }
   }
 
-  // load
   window.onload = () => {
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'dark') {
