@@ -7,79 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 切换模式按钮，放在页面顶部 -->
-<button onclick="toggleTheme()" style="position: fixed; top: 10px; right: 10px; z-index: 1000;">Light</button>
-
-<div style="font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0);">
-  <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
-</div>
-
-<!-- 其他内容 -->
-
-<!-- CSS -->
-<style>
-  /* 默认（白天）模式 */
-  body {
-    background-color: #ffffff;
-    color: #000000;
-  }
-
-  /* 黑夜模式 */
-  body.dark-mode {
-    background-color: #121212;
-    color: #ffffff;
-  }
-
-  /* 黑夜模式下的链接、按钮、文字颜色 */
-  body.dark-mode a {
-    color: #bb86fc;
-  }
-
-  body.dark-mode button {
-    background-color: #333333;
-    color: #ffffff;
-    border: 1px solid #444444;
-  }
-
-  /* 固定按钮样式 */
-  button {
-    padding: 10px 15px;
-    font-size: 16px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-  }
-</style>
-
-<!-- JavaScript -->
-<script>
-  function toggleTheme() {
-    const body = document.body;
-    body.classList.toggle('dark-mode');
-    
-    // 将当前主题保存到 localStorage 中
-    if (body.classList.contains('dark-mode')) {
-      localStorage.setItem('theme', 'dark');
-    } else {
-      localStorage.setItem('theme', 'light');
-    }
-  }
-
-  // 页面加载时应用保存的主题
-  window.onload = () => {
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'dark') {
-      document.body.classList.add('dark-mode');
-    }
-  };
-</script>
-
-
-<!--
 <div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
   <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
--->
+
 
 
 Education
