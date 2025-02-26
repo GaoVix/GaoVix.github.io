@@ -6,6 +6,57 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<button onclick="toggleTheme()">切换模式</button>
+
+<div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
+  <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
+</div>
+
+<!-- CSS -->
+<style>
+  body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+
+  body.dark-mode a {
+    color: #bb86fc;
+  }
+
+  body.dark-mode button {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #444444;
+  }
+</style>
+
+<!-- JavaScript -->
+<script>
+  function toggleTheme() {
+    const body = document.body;
+    body.classList.toggle('dark-mode');
+    
+    if (body.classList.contains('dark-mode')) {
+      localStorage.setItem('theme', 'dark');
+    } else {
+      localStorage.setItem('theme', 'light');
+    }
+  }
+
+  window.onload = () => {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      document.body.classList.add('dark-mode');
+    }
+  };
+</script>
+
 <div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
   <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
