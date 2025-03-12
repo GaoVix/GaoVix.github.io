@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
-  <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;" target="_blank">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
+  <p>I'm a last-year undergraduate student from <a href="https://en.sdu.edu.cn/" style="text-decoration: none;" target="_blank">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;" target="_blank">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics, and AI for science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
 
 
@@ -54,8 +54,8 @@ Publications
     <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
     <p>arXiv preprint, 2024</p>
     <div style="display: flex; justify-content: space-between; width: 150px !important;">
-      <span><a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;">[Paper]</a></span>
-      <span><a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;">[Code]</a></span>
+      <span><a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a></span>
+      <span><a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a></span>
     </div>
   </div>
 </div>
