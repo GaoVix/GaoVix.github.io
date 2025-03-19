@@ -45,7 +45,7 @@ Publications
 (* Equal Contribution, † Corresponding Author)
 -->
 
-<div style="overflow: auto; display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
+<div style="display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/p2.png" alt="ccfexp Picture" style="width: 205px !important; height: 100px !important;" />
   </div>
