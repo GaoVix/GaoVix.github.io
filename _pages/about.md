@@ -27,7 +27,7 @@ Education
 </div>
 -->
 
-<div style="overflow: auto; font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
+<div style="font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
   <div style="margin-top: 10px; margin-right: 20px; margin-left: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="85" />
   </div>
@@ -62,7 +62,7 @@ Publications
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 20px 0;" />
 
-<div style="overflow: auto; display: flex; align-items: flex-start !important; margin-bottom: 20px;color: rgb(0, 0, 0);">
+<div style="display: flex; align-items: flex-start !important; margin-bottom: 20px;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
