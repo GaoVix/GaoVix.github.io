@@ -48,22 +48,29 @@
   }
 }
 
-.masthead__menu {
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
+/* 新增响应式设计 */
+@media (max-width: 1024px) {
+  .masthead {
+    height: auto; 
+    padding: 1em;
+  }
+
+  .masthead__inner-wrap {
+    padding: 1em; 
+    max-width: 100%; 
+  }
+
+  .site-title {
+    font-size: 28px !important;
   }
 }
 
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
+@media (max-width: 600px) {
+  .site-title {
+    font-size: 22px !important; 
+  }
 
-  &--lg {
-    padding-right: 3em;
-    font-weight: 700;
+  .masthead {
+    padding: 0.5em 1em;
   }
 }
