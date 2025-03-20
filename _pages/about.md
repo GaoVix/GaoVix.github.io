@@ -62,7 +62,7 @@ Publications
 -->
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
-  <div style="margin-bottom: 10px;">
+  <div>
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="text-align: justify; line-height: 1.5; font-family: 'Times New Roman', Times, serif;">
@@ -70,10 +70,7 @@ Publications
   </div>
 </div>
 
-
-
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 10px 0;" />
-
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div style="margin-bottom: 10px;">
