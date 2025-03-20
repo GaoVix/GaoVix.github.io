@@ -70,9 +70,9 @@ Publications
   </div>
 </div>
 
-<hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 0px 0;" />
+<hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 0 0 10px 0;" />
 
-<div style="margin-top: 10px; display: flex; flex-direction: column; color: rgb(0, 0, 0);">
+<div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div style="margin-bottom: 10px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
