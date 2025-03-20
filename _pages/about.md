@@ -66,7 +66,7 @@ Publications
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="text-align: justify; line-height: 1.5; font-family: 'Times New Roman', Times, serif;">
-    <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals<a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a><a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a><br><strong>Weixiang Gao</strong>, Yifan Xia<br>arXiv preprint, 2024</p>
+    <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a><br><strong>Weixiang Gao</strong>, Yifan Xia<br>arXiv preprint, 2024</p>
   </div>
 </div>
 
@@ -80,7 +80,7 @@ Publications
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="text-align: justify; line-height: 1.5; font-family: 'Times New Roman', Times, serif;">
-    <p>Artificial Intelligence-based Facial Palsy Evaluation: A Survey<a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none;" target="_blank">[Paper]</a><br>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia<br>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
+    <p>Artificial Intelligence-based Facial Palsy Evaluation: A Survey <a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none;" target="_blank">[Paper]</a><br>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia<br>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
   </div>
 </div>
 
