@@ -72,7 +72,7 @@ Publications
 
 
 
-<hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 20px 0;" />
+<hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 10px 0;" />
 
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
