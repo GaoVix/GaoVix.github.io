@@ -49,7 +49,7 @@ Publications
   <div style="float: left; margin-right: 20px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
-  <div style="line-height: 1;font-family: 'Times New Roman', Times, serif;">
+  <div style="text-align: justify;line-height: 1;font-family: 'Times New Roman', Times, serif;">
     <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model<br>for Facial Paralysis Individuals</p>
     <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
     <p>arXiv preprint, 2024</p>
