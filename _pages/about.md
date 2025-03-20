@@ -47,7 +47,7 @@ Publications
 
 <div style="display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
-    <img src="../images/p2.png" alt="ccfexp Picture" style="width: 205px !important; height: 100px !important;" />
+    <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 150px !important; height: 100px !important;" />
   </div>
   <div style="line-height: 1;font-family: 'Times New Roman', Times, serif;">
     <p><strong>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals</strong></p>
