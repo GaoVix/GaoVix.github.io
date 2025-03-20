@@ -62,7 +62,7 @@ Publications
 -->
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 10px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="text-align: justify; line-height: 1; font-family: 'Times New Roman', Times, serif;">
@@ -80,7 +80,7 @@ Publications
 
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 10px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="text-align: justify; line-height: 1; font-family: 'Times New Roman', Times, serif;">
