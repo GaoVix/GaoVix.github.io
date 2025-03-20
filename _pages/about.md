@@ -65,7 +65,7 @@ Publications
   <div  style="margin-bottom: 10px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
-  <div style="text-align: justify; line-height: 1.5; font-family: 'Times New Roman', Times, serif;">
+  <div style="margin-bottom: 0px;text-align: justify; line-height: 1.5; font-family: 'Times New Roman', Times, serif;">
     <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a><br><strong>Weixiang Gao</strong>, Yifan Xia<br>arXiv preprint, 2024</p>
   </div>
 </div>
