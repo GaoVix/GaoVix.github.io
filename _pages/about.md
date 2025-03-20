@@ -44,8 +44,8 @@ Publications
 <!--
 (* Equal Contribution, † Corresponding Author)
 -->
-
-<div style="display: flex; align-items: left !important; color: rgb(0, 0, 0);">
+<!--
+<div style="display: flex; color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
@@ -59,6 +59,24 @@ Publications
     </div>
   </div>
 </div>
+-->
+
+<div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
+  <div style="margin-bottom: 20px;">
+    <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
+  </div>
+  <div style="text-align: justify; line-height: 1; font-family: 'Times New Roman', Times, serif;">
+    <p><strong>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals</strong></p>
+    <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
+    <p>arXiv preprint, 2024</p>
+    <div style="display: flex; justify-content: space-between; width: 150px !important;">
+      <span><a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a></span>
+      <span><a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a></span>
+    </div>
+  </div>
+</div>
+
+
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 20px 0;" />
 
