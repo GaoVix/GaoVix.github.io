@@ -45,7 +45,7 @@ Publications
 (* Equal Contribution, † Corresponding Author)
 -->
 
-<div style="display: flex; color: rgb(0, 0, 0);">
+<div style="display: flex; align-items: left !important; color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
