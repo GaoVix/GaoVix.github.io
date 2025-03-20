@@ -47,10 +47,10 @@ Publications
 
 <div style="display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
-    <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 144px !important; height: 81px !important;" />
+    <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="line-height: 1;font-family: 'Times New Roman', Times, serif;">
-    <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals</p>
+    <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for<br>Facial Paralysis Individuals</p>
     <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
     <p>arXiv preprint, 2024</p>
     <div style="display: flex; justify-content: space-between; width: 150px !important;">
@@ -64,7 +64,7 @@ Publications
 
 <div style="display: flex; align-items: flex-start !important;color: rgb(0, 0, 0);">
   <div style="float: left; margin-right: 20px;">
-    <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 144px !important; height: 81px !important;" />
+    <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 192px !important; height: 108px !important;" />
   </div>
   <div style="line-height: 1;font-family: 'Times New Roman', Times, serif;">
     <p>Artificial Intelligence-based Facial Palsy Evaluation: A Survey</p>
