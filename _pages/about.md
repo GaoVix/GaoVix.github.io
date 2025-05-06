@@ -15,17 +15,8 @@ redirect_from:
 
 Education
 -----
-<!--
-<div style="overflow: auto;font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
-  <div style="float: left; margin-top: 10px; margin-left: 10px; margin-right: 20px; margin-bottom: 10px;">
-    <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="80" />
-  </div>
-  <div style="margin-top: 10px;font-family: 'Times New Roman', Times, serif;">
-    <p><strong>Shandong University</strong></p>
-    <p>B.Eng. , Sep.2021 - Present</p>
-  </div>
-</div>
--->
+
+
 
 <div style="font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
   <div style="margin-top: 10px; margin-right: 20px; margin-left: 10px;">
