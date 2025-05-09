@@ -96,8 +96,22 @@ Publications
     </div>
     <div class="paper-authors">
       <span class="paper-highlight">Weixiang Gao</span>, Yating Zhang, Yifan Xia<br>
-      International Joint Conference on Neural Networks (IJCNN), 2025
+      International Joint Conference on Neural Networks (IJCNN), 2025<br>
       <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a>
+    </div>
+  </div>
+</div>
+
+<div class="paper-entry">
+  <div class="paper-bar"></div>
+  <div class="paper-content">
+    <div class="paper-title">
+      Artificial Intelligence-based Facial Palsy Evaluation: A Survey
+    </div>
+    <div class="paper-authors">
+      Yating Zhang, <span class="paper-highlight">Weixiang Gao</span>, Hui Yu, Junyu Dong, Yifan Xia<br>
+      IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024<br>
+      <a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none !important;" target="_blank">[Paper]</a>
     </div>
   </div>
 </div>
@@ -115,6 +129,7 @@ Publications
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 0 0 10px 0;" />
 
+<!--
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div style="margin-bottom: 10px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 192px !important; height: 108px !important;" />
@@ -123,7 +138,7 @@ Publications
     <p>Artificial Intelligence-based Facial Palsy Evaluation: A Survey <a href="https://ieeexplore.ieee.org/document/10643562" style="text-decoration: none;" target="_blank">[Paper]</a><br>Yating Zhang, <strong>Weixiang Gao</strong>, Hui Yu, Junyu Dong, Yifan Xia<br>IEEE Transactions on Neural Systems & Rehabilitation Engineering, 2024</p>
   </div>
 </div>
-
+-->
 
 
 
