@@ -88,7 +88,7 @@ Publications
 </div>
 -->
 
-<!--
+
 <div class="paper-entry">
   <div class="paper-bar"></div>
   <div class="paper-content">
@@ -102,7 +102,7 @@ Publications
     </div>
   </div>
 </div>
--->
+
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div  style="margin-bottom: 10px;">
