@@ -25,7 +25,7 @@ redirect_from:
 }
 
 .paper-title {
-  color: #1a73e8; /* 蓝色标题 */
+  color: #555; /* 蓝色标题 */
   font-weight: bold;
   text-decoration: none;
   font-size: 16px;
