@@ -15,7 +15,7 @@ redirect_from:
 }
 
 .paper-bar {
-  width: 10px;
+  width: 6px;
   background-color: #64b5f6;
   margin-right: 15px;
   border-radius: 3px;
