@@ -25,7 +25,7 @@ redirect_from:
 }
 
 .paper-title {
-  color: #1a73e8; 
+  color: #555; 
   font-weight: bold;
   text-decoration: none;
   font-size: 18px;
@@ -71,22 +71,6 @@ Publications
 <!--
 (* Equal Contribution, † Corresponding Author)
 -->
-<!--
-<div style="display: flex; color: rgb(0, 0, 0);">
-  <div style="float: left; margin-right: 20px;">
-    <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
-  </div>
-  <div style="text-align: justify;line-height: 1;font-family: 'Times New Roman', Times, serif;">
-    <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals</p>
-    <p><strong>Weixiang Gao</strong>, Yifan Xia</p>
-    <p>arXiv preprint, 2024</p>
-    <div style="display: flex; justify-content: space-between; width: 150px !important;">
-      <span><a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a></span>
-      <span><a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a></span>
-    </div>
-  </div>
-</div>
--->
 
 
 <div class="paper-entry">
@@ -126,11 +110,9 @@ Publications
     <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a><br><strong>Weixiang Gao</strong>, Yating Zhang, Yifan Xia<br>International Joint Conference on Neural Networks (IJCNN), 2025</p>
   </div>
 </div>
--->
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 0 0 10px 0;" />
 
-<!--
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div style="margin-bottom: 10px;">
     <img src="../images/AI based facial palsy evaluation.png" alt="review Picture" style="width: 192px !important; height: 108px !important;" />
