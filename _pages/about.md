@@ -89,6 +89,20 @@ Publications
 </div>
 -->
 
+<div class="paper-entry">
+  <div class="paper-bar"></div>
+  <div class="paper-content">
+    <a href="#" class="paper-title">
+      CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals
+    </a>
+    <div class="paper-authors">
+      <span class="paper-highlight">Weixiang Gao</span>, Yating Zhang, Yifan Xia<br>
+      International Joint Conference on Neural Networks (IJCNN), 2025
+      <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a>
+    </div>
+  </div>
+</div>
+
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div  style="margin-bottom: 10px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
