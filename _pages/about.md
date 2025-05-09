@@ -25,10 +25,10 @@ redirect_from:
 }
 
 .paper-title {
-  color: #1a73e8; /* 蓝色标题 */
+  color: #1a73e8; 
   font-weight: bold;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .paper-authors {
