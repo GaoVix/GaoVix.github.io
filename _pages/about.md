@@ -81,7 +81,8 @@ Publications
     <div class="paper-authors">
       <span class="paper-highlight">Weixiang Gao</span>, Yating Zhang, Yifan Xia<br>
       International Joint Conference on Neural Networks (IJCNN), 2025<br>
-      <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a>
+      <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a>
     </div>
   </div>
 </div>
