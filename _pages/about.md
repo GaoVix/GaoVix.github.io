@@ -16,7 +16,7 @@ redirect_from:
 
 .paper-bar {
   width: 6px;
-  background-color: rgb(200,255,200);
+  background-color: rgb(100,255,100);
   margin-right: 15px;
   border-radius: 3px;
 }
