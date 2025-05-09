@@ -102,7 +102,7 @@ Publications
   </div>
 </div>
 
-
+<!--
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div  style="margin-bottom: 10px;">
     <img src="../images/CFCPalsy.png" alt="ccfexp Picture" style="width: 192px !important; height: 108px !important;" />
@@ -111,6 +111,7 @@ Publications
     <p>CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals <a href="https://arxiv.org/abs/2409.07271" style="text-decoration: none !important;" target="_blank">[Paper]</a> <a href="https://github.com/GaoVix/CCFExp" style="text-decoration: none !important;" target="_blank">[Code]</a><br><strong>Weixiang Gao</strong>, Yating Zhang, Yifan Xia<br>International Joint Conference on Neural Networks (IJCNN), 2025</p>
   </div>
 </div>
+-->
 
 <hr style="border: none; border-top: 0.3px solid #f0f0f0; margin: 0 0 10px 0;" />
 
