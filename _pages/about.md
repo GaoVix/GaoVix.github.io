@@ -7,6 +7,43 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.paper-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.paper-bar {
+  width: 6px;
+  background-color: #4caf50; /* 绿色条 */
+  margin-right: 15px;
+  border-radius: 3px;
+}
+
+.paper-content {
+  max-width: 800px;
+}
+
+.paper-title {
+  color: #1a73e8; /* 蓝色标题 */
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.paper-authors {
+  color: #555;
+  margin: 5px 0;
+}
+
+.paper-highlight {
+  font-weight: bold;
+  color: #333;
+}
+</style>
+
+
 <div style="font-family: 'Times New Roman', Times, serif;color: rgb(0, 0, 0);">
   <p>I'm a last-year undergraduate student at <a href="https://en.sdu.edu.cn/" style="text-decoration: none;" target="_blank">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;" target="_blank">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics and AI4Science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
