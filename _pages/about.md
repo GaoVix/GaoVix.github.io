@@ -28,11 +28,11 @@ redirect_from:
   color: #1a73e8; 
   font-weight: bold;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .paper-authors {
-  font-size: 14px;
+  font-size: 16px;
   color: #555;
   margin: 5px 0;
 }
