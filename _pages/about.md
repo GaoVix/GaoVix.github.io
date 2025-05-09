@@ -32,6 +32,7 @@ redirect_from:
 }
 
 .paper-authors {
+  font-size: 14px;
   color: #555;
   margin: 5px 0;
 }
