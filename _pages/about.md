@@ -26,7 +26,6 @@ redirect_from:
 
 .paper-title {
   color: #555; 
-  font-weight: bold;
   text-decoration: none;
   font-size: 18px;
 }
