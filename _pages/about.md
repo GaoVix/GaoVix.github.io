@@ -91,9 +91,9 @@ Publications
 <div class="paper-entry">
   <div class="paper-bar"></div>
   <div class="paper-content">
-    <a class="paper-title">
+    <div class="paper-title">
       CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals
-    </a>
+    </div>
     <div class="paper-authors">
       <span class="paper-highlight">Weixiang Gao</span>, Yating Zhang, Yifan Xia<br>
       International Joint Conference on Neural Networks (IJCNN), 2025
