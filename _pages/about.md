@@ -91,7 +91,7 @@ Publications
 <div class="paper-entry">
   <div class="paper-bar"></div>
   <div class="paper-content">
-    <a href="#" class="paper-title">
+    <a class="paper-title">
       CFCPalsy: Facial Image Synthesis with Cross-Fusion Cycle Diffusion Model for Facial Paralysis Individuals
     </a>
     <div class="paper-authors">
