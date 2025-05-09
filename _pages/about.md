@@ -54,7 +54,6 @@ Education
 -----
 
 
-
 <div style="font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
   <div style="margin-top: 10px; margin-right: 20px; margin-left: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="85" />
@@ -89,6 +88,7 @@ Publications
 </div>
 -->
 
+<!--
 <div class="paper-entry">
   <div class="paper-bar"></div>
   <div class="paper-content">
@@ -102,6 +102,7 @@ Publications
     </div>
   </div>
 </div>
+-->
 
 <div style="display: flex; flex-direction: column; color: rgb(0, 0, 0);">
   <div  style="margin-bottom: 10px;">
