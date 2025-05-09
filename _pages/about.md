@@ -10,17 +10,16 @@ redirect_from:
 <style>
 .paper-entry {
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   margin-bottom: 20px;
 }
 
 .paper-bar {
   width: 6px;
-  background-color: #4caf50; /* 绿色条 */
+  background-color: #64b5f6;
   margin-right: 15px;
   border-radius: 3px;
 }
-
 .paper-content {
   max-width: 800px;
 }
