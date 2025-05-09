@@ -25,20 +25,19 @@ redirect_from:
 }
 
 .paper-title {
-  color: #555; 
+  color: rgb(0,0,0); 
   text-decoration: none;
   font-size: 18px;
 }
 
 .paper-authors {
   font-size: 16px;
-  color: #555;
+  color: rgb(0,0,0);
   margin: 5px 0;
 }
 
 .paper-highlight {
   font-weight: bold;
-  color: #333;
 }
 </style>
 
