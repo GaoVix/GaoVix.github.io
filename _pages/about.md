@@ -47,12 +47,8 @@ redirect_from:
   <p>I'm a last-year undergraduate student at <a href="https://en.sdu.edu.cn/" style="text-decoration: none;" target="_blank">Shandong University</a>. I'm also a Research Assistant at Shandong University, under the guidance of <a href="https://yifan313.github.io/" style="text-decoration: none;" target="_blank">Prof. Yifan Xia</a>. My research interest includes machine learning, computer vision, generative models, robotics and AI4Science. I'm now working on diffusion models, in conjunction with facial paralysis images.</p>
 </div>
 
-
-
 Education
 -----
-
-
 <div style="font-family: 'Times New Roman', Times, serif; color: rgb(0, 0, 0); display: flex; align-items: center;">
   <div style="margin-top: 10px; margin-right: 20px; margin-left: 10px;">
     <img src="../images/ShandongUniversity.png" alt="Profile Picture" width="85" />
